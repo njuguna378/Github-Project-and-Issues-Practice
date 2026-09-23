@@ -1,2 +1,3 @@
 # Github-Project-and-Issues-Practice
-This Repository helps me put into practice what i have learnt about Issues and Projects.
+# Goal and Objectives
+To Learn, Understand and Create issues and projects in github for effective collaboration purposes.
